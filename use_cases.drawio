@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qAPtqfoOIPN-VzLOdGmh-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="250" width="30" height="60" as="geometry" />
+        <mxCell id="8q3B2vJ4E4FiSpnzrV7H-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8q3B2vJ4E4FiSpnzrV7H-4" target="8q3B2vJ4E4FiSpnzrV7H-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8q3B2vJ4E4FiSpnzrV7H-4" value="Swimmer" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="150" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8q3B2vJ4E4FiSpnzrV7H-5" value="Swim in the pool" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="294" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
