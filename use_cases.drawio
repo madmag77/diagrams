@@ -13,6 +13,21 @@
         <mxCell id="8q3B2vJ4E4FiSpnzrV7H-5" value="Swim in the pool" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="294" y="270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8q3B2vJ4E4FiSpnzrV7H-7" value="Swimmer use cases" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="294" y="20" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8q3B2vJ4E4FiSpnzrV7H-14" value="Pool owner" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="414" y="450" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8q3B2vJ4E4FiSpnzrV7H-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8q3B2vJ4E4FiSpnzrV7H-15" target="8q3B2vJ4E4FiSpnzrV7H-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8q3B2vJ4E4FiSpnzrV7H-15" value="Other swimmers" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="230" y="450" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8q3B2vJ4E4FiSpnzrV7H-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.783;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8q3B2vJ4E4FiSpnzrV7H-14" target="8q3B2vJ4E4FiSpnzrV7H-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
